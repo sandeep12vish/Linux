@@ -1,6 +1,6 @@
 #Table of Contents
 
-I. introduction to Linux
+##I. introduction to Linux
  - Linux history 
  - distributions 
  - getting Linux at home 
