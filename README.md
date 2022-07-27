@@ -1,42 +1,41 @@
 #Table of Contents
 
 I. introduction to Linux
-1. Linux history 
-2. distributions 
-3. licensing 
-4. getting Linux at home 
+ - Linux history 
+ - distributions 
+ - getting Linux at home 
 
 II. first steps on the command line 
-5. man pages 
-6. working with directories 
-7. working with files 
-8. working with file contents 
+ - man pages 
+ - working with directories 
+ - working with files 
+ - working with file contents 
 
 III. shell expansion 
-10. commands and arguments 
-11. control operators 
-12. variables 
-13. shell history 
-14. file globbing 
-IV. pipes and commands 
-15. redirection and pipes 
-16. filters 
-17. basic Unix tools
+ - commands and arguments 
+ - control operators 
+ - variables 
+ - shell history 
+ - file globbing 
+ - pipes and commands 
+ - redirection and pipes 
+ - filters 
+ - basic Unix tools
 
 V. vi 
-18. Introduction to vi
-VI. scripting 
-19. scripting introduction 
-20. scripting loops 
-21. scripting parameters 
-22. more scripting 
+ - Introduction to vi
+ - scripting 
+ - scripting introduction 
+ - scripting loops 
+ - scripting parameters 
+ - more scripting 
 
 VII. local user management 
-23. users 
-24. groups 
+ - users 
+ - groups 
 
 VIII. file security
-25. standard file permissions 
-26. advanced file permissions 
-27. access control lists
-28. file links
+ - standard file permissions 
+ - advanced file permissions 
+ - access control lists
+ - file links
