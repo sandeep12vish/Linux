@@ -1,10 +1,15 @@
 # Table of Contents
 
-## I. introduction to Linux
+## I. Introduction to Linux
  - Linux history 
     - After the failure of the Multics project, In the year 1969 Unix OS came into the picture and was led by Ken Thompson and Dennis Ritchie (both of AT&T Bell Lab). The first release was in 1970. Later it was rewritten in C programming language, to make it portable.    
- - distributions 
- - getting Linux at home 
+ - Distributions 
+    - Ubuntu
+    - Linux Mint
+    - Debain
+    - Red Hat Enterprises/CentOS
+    - Fedora
+ - Getting Linux at home 
 
 ## II. first steps on the command line 
  - man pages 
