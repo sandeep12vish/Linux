@@ -1,17 +1,17 @@
-#Table of Contents
+# Table of Contents
 
-** I. introduction to Linux **
+## I. introduction to Linux
  - Linux history 
  - distributions 
  - getting Linux at home 
 
-II. first steps on the command line 
+## II. first steps on the command line 
  - man pages 
  - working with directories 
  - working with files 
  - working with file contents 
 
-III. shell expansion 
+## III. shell expansion 
  - commands and arguments 
  - control operators 
  - variables 
@@ -22,7 +22,7 @@ III. shell expansion
  - filters 
  - basic Unix tools
 
-V. vi 
+## V. vi 
  - Introduction to vi
  - scripting 
  - scripting introduction 
@@ -30,11 +30,11 @@ V. vi
  - scripting parameters 
  - more scripting 
 
-VII. local user management 
+## VII. local user management 
  - users 
  - groups 
 
-VIII. file security
+## VIII. file security
  - standard file permissions 
  - advanced file permissions 
  - access control lists
