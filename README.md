@@ -13,6 +13,8 @@
 
 ## II. first steps on the command line 
  - man pages 
+   <p>The man stands for manual. 
+   The man command displays the user manual of any command that we run on the terminal.
  - working with directories 
  - working with files 
  - working with file contents 
