@@ -18,20 +18,33 @@ The man command displays the user manual of any command that we run on the termi
 
 #### 4.1. man $command
 
+ sandeep@DESKTOP-T6N193B:~$ man whois
+
 #### 4.2. man $configfile
+
+sandeep@DESKTOP-T6N193B:~$ man syslog.conf
 
 #### 4.3. man $daemon
 
+sandeep@DESKTOP-T6N193B:~$ man syslogd
+
 #### 4.4.  man -k (apropos)
+
+sandeep@DESKTOP-T6N193B:~$ man -k syslog
 
 #### 4.5. whatis
 
+sandeep@DESKTOP-T6N193B:~$ whatis route
+
 #### 4.6. whereis
+
+sandeep@DESKTOP-T6N193B:~$ whereis -m whois
 
 #### 4.7. man sections
 
 #### 4.8. man $section $file
 
+sandeep@DESKTOP-T6N193B:~$ man passwd
 #### 4.9. man man
 
 #### 4.10. mandb
